@@ -4,6 +4,6 @@ Computational neuroscience and neuronal communication have been amongst the most
 
 
 
-https://doi.org/10.1016/j.jii.2018.11.005
+DOI: https://doi.org/10.1016/j.jii.2018.11.005
 
 
